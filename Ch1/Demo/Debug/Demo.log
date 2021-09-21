@@ -1,0 +1,5 @@
+﻿  Demo.cpp
+D:\juwei\gitCode\DesignPattern\Ch1\Demo\Demo.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  OperationClass.cpp
+  Generating Code...
+  Demo.vcxproj -> D:\juwei\gitCode\DesignPattern\Ch1\Demo\Debug\Demo.exe
